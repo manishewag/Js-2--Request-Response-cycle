@@ -27,7 +27,12 @@ document.removeChild(element)//Remove an HTML element
 
 
 
+
+
+
 Window Object
+
+
 The Window object is a global object in client-side JavaScript, representing the browser window containing a DOM document and acting as the root of the document object model.
 
 The window object, supported by all browsers, represents the browser’s window and automatically includes global JavaScript objects, functions, and variables as members.
